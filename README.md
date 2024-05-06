@@ -9,7 +9,7 @@ This repository is part of a video that explains how to build a multifactor auth
 </p>
 
 ## Online Version
-Go to the [link of the project](https://LOGIN-Webpage.vercel.app/) to see the sample app.
+Go to the [link of the project](https://github.com/Ajaykandibedala/LOGIN-Page-webpage.vercel.app/) to see the sample app.
 
 ## Tech stack & Open-source libraries
 
@@ -57,7 +57,7 @@ To learn more about Next.js, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+You can check out [the Next.js GitHub repository](https://github.com/Ajaykandibedala/LOGIN--Page-webpage.git/vercel/next.js/) - your feedback and contributions are welcome!
 
 # License
 
